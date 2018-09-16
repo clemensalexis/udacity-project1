@@ -99,6 +99,10 @@ header, nav, footer, section, article, div {
     width: 50%;
   }
 
+  .header-left {
+    text-align: left;
+  }
+  
   .header-right {
     text-align: right;
   }
